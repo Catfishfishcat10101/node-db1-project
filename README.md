@@ -15,7 +15,7 @@ Your assignment page on Canvas should contain instructions for submitting this p
 ### Task 2: Minimum Viable Product
 
 ### 2.1 Write Basic SQL Queries
-
+f
 Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/trysql.asp?filename=trysql_select_all) using Chrome and build the queries below. Once they work copy them to the `queries.sql` file at the root of the project.
 
 - Find all customers with postal code 1010. Returns 3 records.
